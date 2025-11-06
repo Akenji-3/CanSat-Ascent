@@ -1,0 +1,22 @@
+from machine import Pin
+import time
+a = 0
+led = Pin(25, Pin.OUT)
+led2 = Pin(15, Pin.OUT)
+def led_loop(x):
+    led.value(1)
+    led2.value(1)
+    time.sleep(x)
+    led.value(0)
+    led2.value(0)
+    time.sleep(x)
+print ("choose how many seconds to put in as an interval before blinking")
+x = float(input())
+while True:
+    led_loop(x)
+    a += 1
+    print (a)
+    if a == 10:
+        led.value(0)
+        led2.value(0)
+        break
