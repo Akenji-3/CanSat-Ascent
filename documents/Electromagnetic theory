@@ -1,20 +1,18 @@
 ## Electromagnetic theory, for the CanSat
 
-1. sound waves are the compression of the air between the sender and the receiver.
+sound waves are the compression of the air between the sender and the receiver.
 440 Hz means the air between the sender and the receiver is compressed 440 per second. 
 what we hear as a "high pitch sound" is a sound with high freakency while "low pitch sounds" are sounds with low frequency
 
 wavelengt = the period of the sin wave formed by the soundwave => v = f.Γ 
 ex : f = 440 Hz     v = 343 m/s     Γ  =  343/440 = 0,78 m
 
-
-
 how could we transmit a signal? vary freakences => transmit information in binary. 
 
 electromagnetic waves. they move at the speed of light, it's good because it's fast. they can go through walls, water, air,...
 we use high freakency to transmit a lot of data fast. CanSat => 440 MHz, wifi => 2,4 to 5 GHz
 
-2. how can we make a wave?
+how can we make a wave?
 we make protons and electrons move. we send electromagnetic waves through pausitive and negative electromagnetic waves, it moves at the speed of light.
 how do we make them move? we use an antenna. an antenna creates a diffrence in potential, we make the protons and electrons vary.
 
