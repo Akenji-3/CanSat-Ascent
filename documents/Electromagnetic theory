@@ -8,7 +8,7 @@ wavelengt = the period of the sin wave formed by the soundwave => v = f.Γ
 ex : f = 440 Hz     v = 343 m/s     Γ  =  343/440 = 0,78 m
 
 how could we transmit a signal? vary freakences => transmit information in binary. 
-
+![electromagnetic wave image](electromagnetic.png)
 electromagnetic waves. they move at the speed of light, it's good because it's fast. they can go through walls, water, air,...
 we use high freakency to transmit a lot of data fast. CanSat => 440 MHz, wifi => 2,4 to 5 GHz
 
